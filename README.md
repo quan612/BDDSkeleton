@@ -58,8 +58,8 @@ Verify the processing of MT file when field code MASACI is received and indicato
         private FeatureContext _featureInfo;
         private ScenarioContext _scenarioInfo;
 
-        private const string TestProject = "Citi_US";
-        private const string TestPlan = "Automation Test";
+        private const string TestProject = "Citi_US"; //// Name of the project on TestLink
+        private const string TestPlan = "Automation Test"; //// Name of the test plan that contains the automation test cases.
         private string _status;
 
         public Hooks(TestScopeContext testScope, ExtentTest extentTest)
