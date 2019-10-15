@@ -1,0 +1,12 @@
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\TestLinkReporter.dll.config
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\TestLinkReporter.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\TestLinkReporter.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\CookComputing.XmlRpcV2.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\nunit.engine.api.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\nunit.framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\TestLinkApi.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\nunit.framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\bin\Release\nunit.framework.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\obj\Release\TestLinkReporter.csprojResolveAssemblyReference.cache
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\obj\Release\TestLinkReporter.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\TestLinkReporter\obj\Release\TestLinkReporter.pdb

@@ -1,0 +1,195 @@
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\NUnit3.TestAdapter.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\NUnit3.TestAdapter.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\nunit.engine.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\nunit.engine.api.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\DataDriven\DataDrivenCiti.xlsx
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\SpecFlowCiti.dll.config
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\SpecFlowCiti.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\SpecFlowCiti.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\AutomationCiti.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\DnsClient.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\ExtentReport.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\ExtentReports.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\FileProcessingTest.Framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Bson.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Driver.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Driver.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Newtonsoft.Json.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\nunit.framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\RazorEngine.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\System.Buffers.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\System.ValueTuple.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\System.Web.Razor.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\TestLinkReporter.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Arx.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Contracts.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\DataAccess.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Arx.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\EPPlus.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Common.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\TestLinkApi.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\AutomationCiti.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\ExtentReport.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\FileProcessingTest.Framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\DnsClient.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Bson.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Driver.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\MongoDB.Driver.Core.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\Newtonsoft.Json.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\nunit.framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\nunit.framework.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\RazorEngine.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\System.Web.Razor.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\TestLinkReporter.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\bin\Debug\EPPlus.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\obj\Debug\SpecFlowIntegration.csprojResolveAssemblyReference.cache
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\obj\Debug\SpecFlowCiti.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowCiti\obj\Debug\SpecFlowCiti.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll.config
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Arx.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\DnsClient.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\ExtentReports.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Bson.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\RazorEngine.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\System.Buffers.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\System.ValueTuple.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\System.Web.Razor.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Contracts.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Arx.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\EPPlus.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Common.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\DnsClient.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Bson.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\RazorEngine.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\System.Web.Razor.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\bin\Debug\EPPlus.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.csprojResolveAssemblyReference.cache
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll.config
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Arx.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Arx.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\DnsClient.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\ExtentReports.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Bson.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Driver.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\nunit.framework.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\RazorEngine.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\System.Buffers.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\System.ValueTuple.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\System.Web.Razor.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Contracts.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\EPPlus.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Common.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\DnsClient.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Bson.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Driver.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\nunit.framework.pdb
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\nunit.framework.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\RazorEngine.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\System.Web.Razor.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\bin\Debug\EPPlus.xml
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.csprojResolveAssemblyReference.cache
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.dll
+C:\dev\i4QS\I4QS\trunk\TestAutomation\AutomationTest_BK\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.pdb
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll.config
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.pdb
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Arx.Core.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Arx.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\DnsClient.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\ExtentReports.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Bson.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\RazorEngine.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\System.Buffers.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\System.ValueTuple.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\System.Web.Razor.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Contracts.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\EPPlus.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Common.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.pdb
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\DnsClient.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Bson.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.pdb
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\nunit.framework.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\RazorEngine.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\System.Web.Razor.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\bin\Debug\EPPlus.xml
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.csprojResolveAssemblyReference.cache
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.dll
+C:\dev\Client Specific\Global-ClientSpecific\trunk\Citi\AutomationTest\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.pdb
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll.config
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\SpecFlowIntegration.pdb
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\DnsClient.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\ExtentReports.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Bson.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Driver.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\nunit.framework.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\RazorEngine.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\System.Buffers.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\System.ValueTuple.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\System.Web.Razor.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\TechTalk.SpecFlow.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\EPPlus.dll
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\FileProcessingTest.Framework.pdb
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\DnsClient.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Bson.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Driver.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\MongoDB.Driver.Core.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.pdb
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\Newtonsoft.Json.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\nunit.framework.pdb
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\nunit.framework.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\RazorEngine.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\System.Web.Razor.xml
+H:\BDDSkeleton\SpecFlowIntegration\bin\Debug\EPPlus.xml
+H:\BDDSkeleton\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.csprojResolveAssemblyReference.cache
+H:\BDDSkeleton\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.dll
+H:\BDDSkeleton\SpecFlowIntegration\obj\Debug\SpecFlowIntegration.pdb
