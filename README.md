@@ -3,8 +3,9 @@ A template to develop BDD test using Specflow that integrates the result to Test
 
 ## Introduction 
 
-The project implements a Hook to control the flow of the test, from setting up the environment, to teardown the test by logging the result
-to TestLink instance server. The framework also generates the report using ExtentReport library.
+The project implements a Hook to control the flow of the test, from setting up the environment, to teardown the test by logging the result to TestLink instance server. The framework also generates the report using ExtentReport library.
+
+This project was extracted from my automation project in my workplace, so many parts were cut off. If you run into issue or need help setting up, please let me know.
 
 ## Features
 + Using Hook with Specflow step binding.
@@ -101,3 +102,5 @@ Verify the processing of MT file when field code MASACI is received and indicato
             }
         }
   ```
+
+Contact me at quan612@yahoo.com if you run into any issue.
