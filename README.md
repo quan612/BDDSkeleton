@@ -1,5 +1,5 @@
 # BDDSkeleton
-A template to develop BDD test using Specflow that integrates the result to TestLink, and generates a report using ExtentReport
+
 
 ## Introduction 
 
